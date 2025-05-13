@@ -30,7 +30,7 @@ calculator/
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/              ← (Optional: add screenshots here)
+├── images/              
 └── README.md
 ```
 
